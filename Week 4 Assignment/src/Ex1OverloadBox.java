@@ -17,7 +17,7 @@
 		
 	public void printBox(char c) {
 		for (int r = 0; r<size; r++) {
-			for (int d = 0; d<size; d++) {
+			for (int d = 0; d<size; d++) { //had to change c to d to avoid double defining the variable
 			System.out.print("c");
 		}
 			System.out.println();
