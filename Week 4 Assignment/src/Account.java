@@ -1,3 +1,8 @@
+//*******************************************
+//	Account.java		Author: Ben Callen
+//
+//	Returns number of objects initialized
+//*******************************************
 
 public class Account {
 	static int numAccounts = 0;
