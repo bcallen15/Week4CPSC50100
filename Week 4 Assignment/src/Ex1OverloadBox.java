@@ -1,3 +1,8 @@
+//***********************************************
+//	Ex1OverloadBox.java		Author: Ben Callen
+//
+//	Demonstrates overloading variables
+//***********************************************
 
 	public class Ex1OverloadBox {
 		int size = 0;
