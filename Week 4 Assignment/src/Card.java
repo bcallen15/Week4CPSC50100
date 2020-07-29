@@ -10,7 +10,7 @@ import java.util.Random;
 		String cardSuit, cardValue;
 		Random number = new Random();
 		
-		public Card() { //creates class to use to choose a card randomly
+		public Card() { //creates method to use to choose a card randomly
 			randomizer();
 		}
 
